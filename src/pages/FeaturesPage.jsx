@@ -62,11 +62,7 @@ const FeaturesPage = () => (
         From booking to arrival, TripBargain ensures you get the best prices, verified services, and full transparency
         at every step.
       </p>
-      <img
-        src="/src/assets/feature-1.png"
-        alt="TripBargain App Screenshot"
-        className="mx-auto w-full max-w-md rounded-xl shadow-lg"
-      />
+    
     </section>
   </main>
 );
