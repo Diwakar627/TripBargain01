@@ -13,11 +13,7 @@ const AboutUsPage = () => (
 
     {/* Image + Intro */}
     <section className="flex flex-col md:flex-row items-center gap-12 mb-20">
-      <img
-        src="/src/assets/about-img.png"
-        alt="TripBargain travel service"
-        className="rounded-2xl shadow-xl w-full md:max-w-md"
-      />
+   
       <div className="text-lg space-y-5">
         <p>
           <strong className="text-gray-900">TripBargain</strong> was founded with a single mission — to make travel
