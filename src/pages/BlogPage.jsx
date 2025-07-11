@@ -13,11 +13,7 @@ const BlogPage = () => (
     {/* Featured Blog */}
     <section className="mb-20">
       <div className="bg-white rounded-xl shadow-xl p-8 md:flex gap-8 items-center hover:shadow-2xl transition">
-        <img
-          src="/src/assets/featured-blog.png"
-          alt="Save on Travel"
-          className="w-full md:w-1/2 rounded-xl object-cover max-h-64"
-        />
+       
         <div className="mt-6 md:mt-0 md:w-1/2">
           <h2 className="text-3xl font-bold mb-2 text-orange-600">How to Save Big on Your Next Trip</h2>
           <p className="text-gray-600 mb-3">
